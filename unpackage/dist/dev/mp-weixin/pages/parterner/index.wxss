@@ -1,0 +1,28 @@
+
+.content {
+		text-align: center;
+		height: auto;
+}
+.nav {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: auto;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 48rpx;
+    margin: 48rpx;
+    background-color: #1db0b8;
+    color: #fff;
+}
+.nav:nth-child(2) {
+    background-color: #536d8a;
+}
+.nav:nth-child(3) {
+    background-color: #ff9900;
+}
+

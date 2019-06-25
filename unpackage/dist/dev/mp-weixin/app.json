@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/parterner/index",
+    "pages/parterner/agent",
+    "pages/parterner/carrier",
+    "pages/parterner/supplier"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "气易达",
+    "navigationBarBackgroundColor": "#00B8F5",
+    "backgroundColor": "#00B8F5"
+  },
+  "usingComponents": {}
+}
